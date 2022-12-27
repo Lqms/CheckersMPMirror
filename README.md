@@ -1,2 +1,0 @@
-# CheckersMPMirror
-Checkers multiplayer + steam
